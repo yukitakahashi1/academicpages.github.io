@@ -13,7 +13,7 @@ I work on topics in behavioral and labor economics.
 
 I am currently a coordinator of the <a href="https://sites.google.com/site/ideemeetings/" target="_blank">IDEE meetings</a>, platforms for all researchers in experimental and behavioral economics to informally discuss their research projects.
 
-<a href="files/CV_YukiTakahashi.pdf" target="_blank">CV</a><br>
+<a href="files/cv.pdf" target="_blank">CV</a><br>
 <a href="https://twitter.com/yukitakahashi11" target="_blank">Twitter</a><br>
 
 
