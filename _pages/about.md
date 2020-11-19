@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<p><img src="/images/profile.jpg" alt="profile photo" width="40%" height="auto" style="float: left; padding-right:20px"/><p>   I am a PhD candidate in economics at the <a href="https://phd.unibo.it/economics/en" target="_blank">University of Bologna</a>.
+<p><img src="/images/profile.jpg" alt="profile photo" width="300px" height="auto" style="float: left; padding-right:20px"/><p>   I am a PhD candidate in economics at the <a href="https://phd.unibo.it/economics/en" target="_blank">University of Bologna</a>.
 I work on topics in behavioral and labor economics.
 
 I am currently a coordinator of the <a href="https://sites.google.com/site/ideemeetings/" target="_blank">IDEE meetings</a>, platforms for all researchers in experimental and behavioral economics to informally discuss their research projects.
