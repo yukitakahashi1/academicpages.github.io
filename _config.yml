@@ -50,7 +50,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification :
+google_site_verification : google-site-verification=UQ7qVFOLgv84TkI0b0HOTobvENhpS2tCva1EuMfDjFA
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Yuki Takahashi"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "PhD Candidate in Economics at the University of Bologna"
   location         : "Bologna, Italy"
   employer         :
