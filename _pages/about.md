@@ -18,7 +18,7 @@ I am coordinating the <a href="https://sites.google.com/site/ideemeetings/" targ
 <a href="https://twitter.com/yukitakahashi11" target="_blank">Twitter</a><br>
 
 
-#### Working paper
+### Working paper
 <ul>
 <li>
 <a href="files/CareerProgression.pdf" target="_blank">Do competent women receive unfavorable treatment?</a>
