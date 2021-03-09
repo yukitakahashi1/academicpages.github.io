@@ -20,5 +20,4 @@ I am coordinating the <a href="https://sites.google.com/site/ideemeetings/" targ
 
 ### Working paper
 Gender differences in the cost of contradiction
-
 <a href="files/CareerProgression.pdf" target="_blank">Do competent women receive unfavorable treatment?</a>
