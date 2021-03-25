@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-<img src="/images/profile.jpg" alt="profile photo" width="280px" height="auto" style="float: left; padding-right:20px"/>   I am a PhD candidate in economics at the <a href="https://dse.unibo.it/en" target="_blank">University of Bologna</a>.
-I work on topics in behavioral and labor economics, with a particular interest in how bias and identity affect one's labor market outcomes.
+<img src="/images/profile.jpg" alt="profile photo" width="280px" height="auto" style="float: left; padding-right:20px"/>   I am a 4th year PhD candidate in economics at the <a href="https://dse.unibo.it/en" target="_blank">University of Bologna</a>.
+I work on topics in behavioral and labor economics, with a particular interest in how bias and discrimination distort people's labor market outcomes.
 
 I am coordinating the <a href="https://sites.google.com/site/ideemeetings/" target="_blank">IDEE meetings</a>, a platform for experimental and behavioral economists to informally discuss their experimental design and preliminary results.
 
