@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 <img src="/images/profile.jpg" alt="profile photo" width="280px" height="auto" style="float: left; padding-right:20px"/>   I am a 4th year PhD candidate in economics at the <a href="https://phd.unibo.it/economics/en" target="_blank">University of Bologna</a>.
-I work on topics in behavioral and labor economics, with a particular interest in how bias and identity affect people's labor market outcomes.
+I work on topics in behavioral, labor, and gender economics.
 
-I am coordinating the <a href="https://sites.google.com/site/ideemeetings/" target="_blank">IDEE meetings</a>, a platform for experimental and behavioral economists to informally discuss their experimental design and preliminary results.
+Aside from research, I am coordinating the <a href="https://sites.google.com/site/ideemeetings/" target="_blank">IDEE meetings</a>, a platform for experimental and behavioral economists to informally discuss their experimental design and preliminary results.
 
 
 <a href="files/cv.pdf" target="_blank">CV</a><br>
