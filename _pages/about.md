@@ -13,7 +13,8 @@ I work on topics in behavioral, labor, and gender economics. I am also a coordin
 
 I am primarily interested in studying questions that address inequalities in the society. So far, my research has been relying on controlled laboratory experiments. I am planning to extend my research approach to utilize field settings and rich registry data.
 
-{% include button.html url="/files/cv.pdf" %}
+<button name="button" onclick="/files/cv.pdf">Curricurum vitae</button>
+
 
 <a href="files/cv.pdf" target="_blank">CV</a><br>
 <a href="https://twitter.com/yukitakahashi11" target="_blank">Twitter</a><br>
