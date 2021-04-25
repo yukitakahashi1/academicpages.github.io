@@ -26,3 +26,15 @@ author_profile: false
   </li>
 </ul>
 
+
+## Works in progress
+
+<ul style="list-style-type:none; padding-left:0">
+  <li><strong>The effect of identity on labor market outcomes</strong> (status: design)
+    <details> 
+      <summary>Abstract</summary>
+     Many immigrants from developing countries stay in low-income. Their origin country's status in the world is weak and they are typically non-white, and thus they must have a negative identity about their cultural and ethnic background. It would help them a lot if we can improve their lives with a simple low cost intervention. This project examines the causal effect of affirming immigrants' cultural and ethnic identity on labor market outcomes using a role model intervention. Partnering with an NGO supporting immigrants' assimilation, I conduct a series of job seminars for newly-arrived immigrants with two treatment arms: the seminar guest is an immigrant with the same cultural and ethnic origin (T1) and the seminar guest is an immigrant with different cultural and ethnic origin (T2). T1 has both the information and affirmation effect while T2 only has the information effect, and thus I can isolate the affirmation effect by comparing T1 and T2. I use the types of jobs they have applied for and accepted as measures of labor market outcomes. I also confirm that the mechanism is identity affirmation by eliciting their bias against their own cultural and ethnic background using Implicit Association Test.
+    </details>
+  </li>
+ </ul>
+
