@@ -7,7 +7,7 @@ author_profile: false
 
 ## Working papers
 
-<ul style="list-style-type:none padding-left:0">
+<ul style="list-style-type:none">
   <li><strong>Gender Differences in the Cost of Corrections in Group Work</strong> (Email me for a draft)
     <details> 
       <summary>Abstract</summary>
@@ -16,7 +16,7 @@ author_profile: false
   </li>
  </ul>
  
- <ul style="list-style-type:none padding-left:0">
+ <ul style="list-style-type:none; padding-left:0">
   <li>
     <strong><a href="/files/CareerProgression.pdf" target="_blank">Do competent women receive unfavorable treatment?</a></strong>
     <details>
