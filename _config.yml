@@ -218,10 +218,10 @@ defaults:
       author_profile: false
       share: true
       comments: true
-  # _publications
+  # _research
   - scope:
       path: ""
-      type: publications
+      type: research
     values:
       layout: single
       author_profile: false
