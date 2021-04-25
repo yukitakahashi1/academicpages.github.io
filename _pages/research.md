@@ -18,7 +18,7 @@ author_profile: false
  
  <ul style="list-style-type:none; padding-left:0">
   <li>
-    <strong><a href="/files/CareerProgression.pdf" target="_blank">Do competent women receive unfavorable treatment?</a></strong>
+    <strong><a href="/files/CareerProgression.pdf" target="_blank">Do Competent Women Receive Unfavorable Treatment?</a></strong>
     <details>
       <summary>Abstract</summary>
       Do competent women receive unfavorable treatment than equally competent men? While literature finds that competent women are perceived as less likable, its direct effect on women's career is not well investigated. I study this question in a laboratory experiment where unfavorable treatment has material consequences. I find that neither men nor women treat competent women less favorably; if anything, both men and women treat competent women slightly more favorably than equally competent men. The findings provide a piece of evidence that competent women may not necessarily receive unfavorable treatment, which may shed new light on hiring and promotion practices in labor markets.
@@ -30,7 +30,7 @@ author_profile: false
 ## Works in progress
 
 <ul style="list-style-type:none; padding-left:0">
-  <li><strong>The effect of identity on labor market outcomes</strong> (status: design)
+  <li><strong>The Effect of Identity on Labor Market Outcomes</strong> (status: design)
     <details> 
       <summary>Abstract</summary>
      Many immigrants from developing countries stay in low-income. Their origin country's status in the world is weak and they are typically non-white, and thus they must have a negative identity about their cultural and ethnic background. It would help them a lot if we can improve their lives with a simple low cost intervention. This project examines the causal effect of affirming immigrants' cultural and ethnic identity on labor market outcomes using a role model intervention. Partnering with an NGO supporting immigrants' assimilation, I conduct a series of job seminars for newly-arrived immigrants with two treatment arms: the seminar guest is an immigrant with the same cultural and ethnic origin (T1) and the seminar guest is an immigrant with different cultural and ethnic origin (T2). T1 has both the information and affirmation effect while T2 only has the information effect, and thus I can isolate the affirmation effect by comparing T1 and T2. I use the types of jobs they have applied for and accepted as measures of labor market outcomes. I also confirm that the mechanism is identity affirmation by eliciting their bias against their own cultural and ethnic background using Implicit Association Test.
