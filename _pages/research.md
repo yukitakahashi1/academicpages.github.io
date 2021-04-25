@@ -20,8 +20,20 @@ author_profile: false
   <li>
     <strong><a href="/files/CareerProgression.pdf" target="_blank">Do competent women receive unfavorable treatment?</a></strong>
     <details>
+      <summary style="list-style-type:none; padding-left:0"><button name="button">Abstract</button></summary>
+      Do competent women receive unfavorable treatment than equally competent men? While literature finds that competent women are perceived as less likable, its direct effect on women's career is not well investigated. I study this question in a laboratory experiment where unfavorable treatment has material consequences. I find that neither men nor women treat competent women less favorably; if anything, both men and women treat competent women slightly more favorably than equally competent men. The findings provide a piece of evidence that competent women may not necessarily receive unfavorable treatment, which may shed new light on hiring and promotion practices in labor markets.
+    </details>
+  </li>
+</ul>
+
+
+ <ul style="list-style-type:none; padding-left:0">
+  <li>
+    <strong><a href="/files/CareerProgression.pdf" target="_blank">Do competent women receive unfavorable treatment?</a></strong>
+    <details>
       <summary style="list-style-type:none; padding-left:0">Abstract</summary>
       Do competent women receive unfavorable treatment than equally competent men? While literature finds that competent women are perceived as less likable, its direct effect on women's career is not well investigated. I study this question in a laboratory experiment where unfavorable treatment has material consequences. I find that neither men nor women treat competent women less favorably; if anything, both men and women treat competent women slightly more favorably than equally competent men. The findings provide a piece of evidence that competent women may not necessarily receive unfavorable treatment, which may shed new light on hiring and promotion practices in labor markets.
     </details>
   </li>
 </ul>
+
