@@ -38,3 +38,12 @@ author_profile: false
   </li>
  </ul>
 
+
+<ul style="list-style-type:none; padding-left:0">
+  <li><strong>The Effect of Cognitive Scarcity on Polarization</strong> (status: design)
+    <details> 
+      <summary>Abstract</summary>
+     Evidence and theory seem to suggest that cognitive scarcity induce people's polarization. Although polarization may be a rational behavior in some contexts -- for example, protectionism can favor some sectors at least in the short run -- it tends to be efficiency reducing in the long run. This paper establishes the causal evidence on the effect of cognitive scarcity on polarization using a laboratory experiment by exogenously induce one's cognitive scarcity. I also test a spillover and a magnification effect.
+    </details>
+  </li>
+ </ul>
