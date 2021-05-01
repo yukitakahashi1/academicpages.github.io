@@ -13,6 +13,5 @@ redirect_from:
 I work on topics in behavioral, labor, and gender economics. I am primarily interested in questions that address inequalities in society. So far, my research has been relying on controlled laboratory experiments. However, there are a few in-progress works that also exploit field settings and administrative data in my pipeline and I use both experimental and empirical methods to best answer my research questions. 
 
 Curriculum vitae: <a href="files/CurriculumVitae.pdf" target="_blank">here</a><br>
-Research statement: <a href="files/ResearchStatement.pdf" target="_blank">here</a><br>
 Email: <a href="mailto:yuki.takahashi2@unibo.it" target="_blank">yuki.takahashi2@unibo.it</a><br>
 Twitter: <a href="https://twitter.com/yukitakahashi11" target="_blank">@yukitakahashi11</a><br>
