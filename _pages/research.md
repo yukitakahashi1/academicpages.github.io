@@ -4,6 +4,7 @@ permalink: /research/
 author_profile: false
 ---
 
+**<a href="/files/ResearchStatement.pdf" target="_blank">Research statement</a>**
 
 ## Working papers
 
