@@ -4,7 +4,7 @@ permalink: /research/
 author_profile: false
 ---
 
-<a href="/files/ResearchStatement.pdf" target="_blank">Research statement</a>
+A summary of my research portfolio and longer term agenda is <a href="/files/ResearchStatement.pdf" target="_blank">here</a>
 
 ## Working papers
 
