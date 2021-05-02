@@ -29,7 +29,7 @@ A summary of my research portfolio and longer term agenda is <a href="/files/Res
 </ul>
 
 
-## Works in progress
+## Work in progress
 
 <ul style="list-style-type:none; padding-left:0">
   <li>
