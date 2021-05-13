@@ -1,7 +1,7 @@
 ---
 title: "Research"
 permalink: /research/
-author_profile: true
+author_profile: false
 ---
 
 A summary of my research portfolio and longer term agenda is <a href="/files/ResearchStatement.pdf" target="_blank">here</a>.
