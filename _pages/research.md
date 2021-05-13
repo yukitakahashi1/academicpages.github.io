@@ -6,9 +6,9 @@ author_profile: false
 
 A summary of my research portfolio and longer term agenda is <a href="/files/ResearchStatement.pdf" target="_blank">here</a>.
 
-### Working papers
+## Working papers
 
-<!--<ul style="list-style-type:none; padding-left:0">-->
+<ul style="list-style-type:none; padding-left:0">
 <ul>
   <li>
     <strong><a href="/files/Correction.pdf" target="_blank">Gender Differences in the Cost of Corrections in Group Work</a></strong> (postdoc JMP)
@@ -30,10 +30,9 @@ A summary of my research portfolio and longer term agenda is <a href="/files/Res
 </ul>
 
 
-### Work in progress
+## Work in progress
 
-<!--<ul style="list-style-type:none; padding-left:0">-->
-<ul>
+<ul style="list-style-type:none; padding-left:0">
   <li>
     <strong>The Effect of Identity on Labor Market Outcomes</strong> (status: design)
     <details> 
