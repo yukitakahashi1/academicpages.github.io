@@ -9,7 +9,6 @@ A summary of my research portfolio and longer term agenda is <a href="/files/Res
 ## Working papers
 
 <ul style="list-style-type:none; padding-left:0">
-<ul>
   <li>
     <strong><a href="/files/Correction.pdf" target="_blank">Gender Differences in the Cost of Corrections in Group Work</a></strong> (postdoc JMP)
     <details> 
