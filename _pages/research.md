@@ -39,18 +39,6 @@ author_profile: false
   </li>
  </ul>
 
-
-<ul style="list-style-type:none; padding-left:0">
-  <li>
-    <strong>The Effect of Cognitive Scarcity on Polarization</strong> (status: design)
-    <details> 
-      <summary>Abstract</summary>
-     Evidence and theory seem to suggest that cognitive scarcity induce people's polarization. Although polarization may be a rational behavior in some contexts -- for example, protectionism can favor some sectors at least in the short run -- it tends to be efficiency reducing in the long run. This paper establishes the causal evidence on the effect of cognitive scarcity on polarization using a laboratory experiment by exogenously induce one's cognitive scarcity. I also test a spillover and a magnification effect.
-    </details>
-  </li>
- </ul>
- 
- 
  <ul style="list-style-type:none; padding-left:0">
   <li>
     <strong>The Effect of Domestic Violence on Women's and Children's Wellbeing</strong> (status: data collection)
@@ -60,7 +48,17 @@ author_profile: false
     </details>
   </li>
  </ul>
- 
+
+<ul style="list-style-type:none; padding-left:0">
+  <li>
+    <strong>The Effect of Cognitive Scarcity on Polarization</strong> (status: design)
+    <details> 
+      <summary>Abstract</summary>
+     In this study, I test a hypothesis that people's cognitive scarcity is one reason for the recent rise in supports for anti-immigrant policies using the European Social Survey, a controlled laboratory experiment, and text analysis.
+    </details>
+  </li>
+ </ul>
+
  
  
  
