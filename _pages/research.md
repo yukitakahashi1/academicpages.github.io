@@ -51,6 +51,15 @@ author_profile: false
  </ul>
  
  
+ <ul style="list-style-type:none; padding-left:0">
+  <li>
+    <strong>The Effect of Domestic Violence on Women's and Children's Wellbeing</strong> (status: data collection)
+    <details> 
+      <summary>Abstract</summary>
+     In this study, I use unique Russian panel data to examine the effect of domestic violence tolerance on various dimensions of women's and children's wellbeing. I exploit the passage of domestic violence legalization law and variation in the existing cultural norms across Russia and use difference-in-differences as an identification strategy.
+    </details>
+  </li>
+ </ul>
  
  
  
