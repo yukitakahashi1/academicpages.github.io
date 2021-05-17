@@ -58,8 +58,4 @@ author_profile: false
     </details>
   </li>
  </ul>
-
- 
- 
- 
  
