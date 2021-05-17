@@ -15,3 +15,4 @@ redirect_from:
 Curriculum vitae: <a href="files/CurriculumVitae.pdf" target="_blank">here</a><br>
 Email: <a href="mailto:yuki.takahashi2@unibo.it" target="_blank">yuki.takahashi2@unibo.it</a><br>
 Twitter: <a href="https://twitter.com/yukitakahashi11" target="_blank">@yukitakahashi11</a><br>
+
