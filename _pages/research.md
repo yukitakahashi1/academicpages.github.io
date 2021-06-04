@@ -8,10 +8,10 @@ author_profile: false
 
 <ul style="list-style-type:none; padding-left:0">
   <li>
-    <strong><a href="/files/Correction.pdf" target="_blank">Should Women Speak Up More? The Cost of Corrections in Group Work</a></strong> (postdoc JMP)
+    <strong><a href="/files/Correction.pdf" target="_blank">The Cost of Corrections in Group Work</a></strong> (postdoc JMP)
     <details> 
       <summary>Abstract</summary>
-      Women speak up less often than equally knowledgeable men in a group, which reduces women's visibility in a group and group efficiency. However, speaking up corrects others who have a different opinion, and women's corrections may receive backlash. Should women speak up more often to close the labor market gender gap? This paper studies women's cost of correcting male group members and its consequence to group efficiency in a setting where the quality of corrections is only partially observable, as in most group work. I design a quasi-laboratory experiment where participants first perform a joint task seven times, each time with a different participant. After performing a joint task, they state whether they would like to be paired again with each of them. Then, they play a final, payoff-relevant, round of the task with one of the participants they have previously selected. After controlling for paired participants' contribution to the joint task and showing that statistical discrimination against women is unlikely to be present, I find that participants are significantly less likely to select a paired participant who has corrected their action, regardless of the paired participant's gender. Moreover, male participants react more negatively to a correction that fixes their mistake due to their overconfidence. These findings suggest that corrections do not necessarily increase group efficiency due to behavioral bias, it may not be necessarily optimal for women to speak up more, and that men may be speaking up too much.
+Collecting colleagues could improve group efficiency. However, it may make them emotionally irritated and reduce the chance to be selected into teamwork. This paper studies how being corrected by others in a group affects one's probability of selecting that person as a partner in later works. I design a quasi-laboratory experiment where people first perform a joint task with seven other people one by one. After each joint task, they state whether they would like to work again with the person with whom they have just performed the task. Then, they play a final, payoff-relevant, round of the task with one of the people whom they stated they wanted to work with again. I find that the main determinant of partner selection is a given person's contribution to the task. However, after controlling for the contribution, people are significantly less likely to select a person who has corrected their actions. Women do not like being corrected both for their mistakes and for their right actions, while men mostly do not like being corrected for their mistakes. High ability men especially do not like to be corrected for their mistakes, suggesting that their emotional irritation is driving their negative reactions. The gender of the person who made corrections does not matter. I argue that these findings have implications for organizational efficiency, conflict, and gender differences in group work.
     </details>
   </li>
  </ul>
@@ -41,7 +41,7 @@ author_profile: false
 
 <ul style="list-style-type:none; padding-left:0">
   <li>
-    <strong>The Effect of Domestic Violence on Women's and Children's Wellbeing</strong> (status: data collection)
+    <strong>Domestic Violence Tolerance and Women's and Children's Wellbeing</strong> (status: data collection)
     <details> 
       <summary>Abstract</summary>
      In this study, I use unique Russian panel data to examine the effect of domestic violence tolerance on various dimensions of women's and children's wellbeing. I exploit the passage of domestic violence legalization law and variation in the existing cultural norms across Russia and use difference-in-differences as an identification strategy.
