@@ -15,7 +15,7 @@ Collecting colleagues could improve group efficiency. However, it may make them 
     </details>
   </li>
   <li>
-    <strong>Awarded</strong>: Annual Southern PhD Economics Conference Runner Up Paper Prize 2021
+    <strong>Awarded</strong>: Runner Up Paper Prize at the Annual Southern PhD Economics Conference 2021
   </li>
  </ul>
  
