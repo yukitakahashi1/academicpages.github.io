@@ -14,7 +14,11 @@ author_profile: false
 Collecting colleagues could improve group efficiency. However, it may make them emotionally irritated and reduce the chance to be selected into teamwork. This paper studies how being corrected by others in a group affects one's probability of selecting that person as a partner in later works. I design a quasi-laboratory experiment where people first perform a joint task with seven other people one by one. After each joint task, they state whether they would like to work again with the person with whom they have just performed the task. Then, they play a final, payoff-relevant, round of the task with one of the people whom they stated they wanted to work with again. I find that the main determinant of partner selection is a given person's contribution to the task. However, after controlling for the contribution, people are significantly less likely to select a person who has corrected their actions. Women do not like being corrected both for their mistakes and for their right actions, while men mostly do not like being corrected for their mistakes. High-ability men especially do not like to be corrected for their mistakes, suggesting that their emotional irritation is driving their negative reactions. The gender of the person who made corrections does not matter. I argue that these findings have implications for organizational efficiency, conflict, and gender differences in group work.
     </details>
   </li>
+  <li>
+    <strong>Awarded</strong>: Annual Southern PhD Economics Conference Runner Up Paper Prize 2021
+  </li>
  </ul>
+ 
  
  <ul style="list-style-type:none; padding-left:0">
   <li>
@@ -29,15 +33,6 @@ Collecting colleagues could improve group efficiency. However, it may make them 
 
 ## Work in progress
 
-<ul style="list-style-type:none; padding-left:0">
-  <li>
-    <strong>The Effect of Identity on Labor Market Outcomes</strong> (status: design)
-    <details> 
-      <summary>Abstract</summary>
-     Many immigrants from developing countries stay in low-income. Their origin country's status in the world is weak and they are typically non-white, and thus they must have a negative identity about their cultural and ethnic background. It would help them a lot if we can improve their lives with a simple low cost intervention. This project examines the causal effect of affirming immigrants' cultural and ethnic identity on labor market outcomes using a role model intervention. Partnering with an NGO supporting immigrants' assimilation, I conduct a series of job seminars for newly-arrived immigrants with two treatment arms: the seminar guest is an immigrant with the same cultural and ethnic origin (T1) and the seminar guest is an immigrant with different cultural and ethnic origin (T2). T1 has both the information and affirmation effect while T2 only has the information effect, and thus I can isolate the affirmation effect by comparing T1 and T2. I use the types of jobs they have applied for and accepted as measures of labor market outcomes. I also confirm that the mechanism is identity affirmation by eliciting their bias against their own cultural and ethnic background using Implicit Association Test.
-    </details>
-  </li>
- </ul>
 
 <ul style="list-style-type:none; padding-left:0">
   <li>
@@ -58,4 +53,18 @@ Collecting colleagues could improve group efficiency. However, it may make them 
     </details>
   </li>
  </ul>
+
+<ul style="list-style-type:none; padding-left:0">
+  <li>
+    <strong>The Effect of Identity on Labor Market Outcomes</strong> (status: design)
+    <details> 
+      <summary>Abstract</summary>
+     Many immigrants from developing countries stay in low-income. Their origin country's status in the world is weak and they are typically non-white, and thus they must have a negative identity about their cultural and ethnic background. It would help them a lot if we can improve their lives with a simple low cost intervention. This project examines the causal effect of affirming immigrants' cultural and ethnic identity on labor market outcomes using a role model intervention. Partnering with an NGO supporting immigrants' assimilation, I conduct a series of job seminars for newly-arrived immigrants with two treatment arms: the seminar guest is an immigrant with the same cultural and ethnic origin (T1) and the seminar guest is an immigrant with different cultural and ethnic origin (T2). T1 has both the information and affirmation effect while T2 only has the information effect, and thus I can isolate the affirmation effect by comparing T1 and T2. I use the types of jobs they have applied for and accepted as measures of labor market outcomes. I also confirm that the mechanism is identity affirmation by eliciting their bias against their own cultural and ethnic background using Implicit Association Test.
+    </details>
+  </li>
+ </ul>
+
+
+
+
  
