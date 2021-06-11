@@ -5,13 +5,12 @@ author_profile: false
 ---
 
 ## Working papers
-
 <ul style="list-style-type:none; padding-left:0">
   <li>
-    <strong><a href="/files/Correction.pdf" target="_blank">Corrections and Partner Selections in Group Work</a></strong> (postdoc JMP)
+    <strong><a href="/files/Correction.pdf" target="_blank">Corrections and Collaborations in Group Work</a></strong> (postdoc JMP)
     <details> 
       <summary>Abstract</summary>
-Collecting colleagues could improve group efficiency. However, it may make them emotionally irritated and reduce the chance to be selected into teamwork. This paper studies how being corrected by others in a group affects one's probability of selecting that person as a partner in later works. I design a quasi-laboratory experiment where people first perform a joint task with seven other people one by one. After each joint task, they state whether they would like to work again with the person with whom they have just performed the task. Then, they play a final, payoff-relevant, round of the task with one of the people whom they stated they wanted to work with again. I find that the main determinant of partner selection is a given person's contribution to the task. However, after controlling for the contribution, people are significantly less likely to select a person who has corrected their actions. Women do not like being corrected both for their mistakes and for their right actions, while men mostly do not like being corrected for their mistakes. High-ability men especially do not like to be corrected for their mistakes, suggesting that their emotional irritation is driving their negative reactions. The gender of the person who made corrections does not matter. I argue that these findings have implications for organizational efficiency, conflict, and gender differences in group work.
+Receiving corrections from colleagues is an integral part of group work. However, people may take them emotionally, which could be very costly for a person who corrects them as collaboration is essential in group work. This paper studies how being corrected by others in a group affects one's willingness to collaborate with those people in later works in a quasi-laboratory experimental setting. I find that the main determinant of collaborator selection is a given person's contribution to the task. However, after controlling for the contribution, people are significantly less willing to collaborate with a person who has corrected their actions. Women do not like being corrected both for their mistakes and for their right actions, while men mostly do not like being corrected for their mistakes. High-ability men especially do not like to be corrected for their mistakes, suggesting that their emotional irritation is driving their negative reactions. The gender of the person who made corrections does not matter. These findings have implications for organizational efficiency, gender differences in managerial practice, corrections, and strategic behaviors.
     </details>
   </li>
   <li>
@@ -32,8 +31,6 @@ Collecting colleagues could improve group efficiency. However, it may make them 
 
 
 ## Work in progress
-
-
 <ul style="list-style-type:none; padding-left:0">
   <li>
     <strong>Domestic Violence Tolerance and Women's and Children's Wellbeing</strong> (status: data collection)
