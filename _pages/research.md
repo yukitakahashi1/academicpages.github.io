@@ -33,33 +33,14 @@ Receiving corrections from colleagues is an integral part of group work. However
 ## Work in progress
 <ul style="list-style-type:none; padding-left:0">
   <li>
-    <strong>Domestic Violence Tolerance and Women's and Children's Wellbeing</strong> (status: data collection)
-    <details> 
+    <strong>Domestic Violence Tolerance and Women's and Children's Wellbeing</strong> (status: data analysis)
+<!---    <details> 
       <summary>Abstract</summary>
      In this study, I use unique Russian panel data to examine the effect of domestic violence tolerance on various dimensions of women's and children's wellbeing. I exploit the passage of domestic violence legalization law and variation in the existing cultural norms across Russia and use difference-in-differences as an identification strategy.
-    </details>
+    </details> --->
   </li>
 </ul>
 
-<ul style="list-style-type:none; padding-left:0">
-  <li>
-    <strong>The Effect of Cognitive Scarcity on Polarization</strong> (status: design)
-    <details> 
-      <summary>Abstract</summary>
-     In this study, I test a hypothesis that people's cognitive scarcity is one reason for the recent rise in supports for anti-immigrant policies using a controlled laboratory experiment and text analysis.
-    </details>
-  </li>
- </ul>
-
-<ul style="list-style-type:none; padding-left:0">
-  <li>
-    <strong>The Effect of Identity on Labor Market Outcomes</strong> (status: design)
-    <details> 
-      <summary>Abstract</summary>
-     Many immigrants from developing countries stay in low-income. Their origin country's status in the world is weak and they are typically non-white, and thus they must have a negative identity about their cultural and ethnic background. It would help them a lot if we can improve their lives with a simple low cost intervention. This project examines the causal effect of affirming immigrants' cultural and ethnic identity on labor market outcomes using a role model intervention. Partnering with an NGO supporting immigrants' assimilation, I conduct a series of job seminars for newly-arrived immigrants with two treatment arms: the seminar guest is an immigrant with the same cultural and ethnic origin (T1) and the seminar guest is an immigrant with different cultural and ethnic origin (T2). T1 has both the information and affirmation effect while T2 only has the information effect, and thus I can isolate the affirmation effect by comparing T1 and T2. I use the types of jobs they have applied for and accepted as measures of labor market outcomes. I also confirm that the mechanism is identity affirmation by eliciting their bias against their own cultural and ethnic background using Implicit Association Test.
-    </details>
-  </li>
- </ul>
 
 
 
