@@ -18,6 +18,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 **I am looking for a postdoc position. You can find my postdoc paper <a href="files/Correction.pdf" target="_blank">here</a>.**
 
 Curriculum vitae: <a href="files/CurriculumVitae.pdf" target="_blank">here</a><br>
-Email: <a href="mailto:yuki.takahashi2@unibo.it" target="_blank">yuki.takahashi2@unibo.it</a><br>
+Email: <a href="mailto:yuki.takahashi@studio.unibo.it" target="_blank">yuki.takahashi@studio.unibo.it</a><br>
 Twitter: <a href="https://twitter.com/yukitakahashi11" target="_blank">@yukitakahashi11</a><br>
 
