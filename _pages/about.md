@@ -13,7 +13,7 @@ redirect_from:
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
 
-<img src="/images/profile.jpg" alt="profile photo" width="280px" height="auto" style="float: left; padding-right:20px"/>   I am a 4th year PhD candidate in economics at the <a href="https://phd.unibo.it/economics/en" target="_blank">University of Bologna</a> and a visiting PhD student at <a href="https://www.tilburguniversity.edu/about/schools/economics-and-management/organization/departments/economics" target="_blank">Tilburg University</a>. I am an applied microeconomist studying behavioral, labor, and gender economics questions with a particular focus on inequality.
+<img src="/images/profile.jpg" alt="profile photo" width="280px" height="auto" style="float: left; padding-right:20px"/>   I am a 4th year PhD candidate in economics at the <a href="https://phd.unibo.it/economics/en" target="_blank">University of Bologna</a> and a visiting PhD student at <a href="https://www.tilburguniversity.edu/about/schools/economics-and-management/organization/departments/economics" target="_blank">Tilburg University</a>. I am an applied microeconomist studying behavioral, labor, and gender economics questions with a particular focus on inequality issues.
 
 **I am looking for a postdoc position. You can find my postdoc paper <a href="files/Correction.pdf" target="_blank">here</a>.**
 
